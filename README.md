@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Kittapat Ratanaphupha, who is studying in an undergraduate program of Health Data Science, CPE KMUTT.
+
 Here is an only project that related with health data science: https://github.com/savefd/Healthcare-analytic-LOS
 
 😎 What I'm interested in:
@@ -15,7 +16,7 @@ Here is an only project that related with health data science: https://github.co
 -	My work in the team is an extraction of personal information in social listening which was ingesting sale-relating Facebook posts.
 -	The work was done by a team of 2 with querying a regular expression and wrangling a dataset.
 
-Here is a work which collaborated with Napong Leelasithorn while the internship: https://github.com/savefd/Seller_info
+Here is a work which collaborated with Napong Leelasithorn ([@savefd](https://github.com/savefd)) while the internship: https://github.com/savefd/Seller_info
 
 🍁 My hobbies
 1. Investigating Thai archived documents from 1870–present
