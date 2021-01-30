@@ -6,6 +6,7 @@ I'm Kittapat Ratanaphupha, who is studying in an undergraduate program of Health
 2. Mathematical Analysis (e.g., dynamical systems, stochastic differential equation)
 3. slightly interested in Natural Language Processing
 4. slightly interested in data engineering
+5. Rookie in Explainable Artificial Intelligence
 
 🖥 I've worked by informal internship with Government Big Data Institute (GBDi) <br>
 *Data Science internship, June - August 2020*
