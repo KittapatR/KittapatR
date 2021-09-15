@@ -16,6 +16,7 @@ What field I'm interested to learn:
 **Work and Experiences**
 
 June - August 2020, Informal internship with Government Big Data Institute (GBDi)
+
 June - July 2021, Health data science internship at Ramathibodi hospital 
 
 🍁 My hobbies
