@@ -9,8 +9,9 @@ What field I'd like to do:
 
 What field I'm interested to learn:
 1. Digital signal processing, e.g., image processing and speech processing
-2. Dynamical systems for physical model
-3. Machine learning and explainable artificial intelligence
+2. Computer architecture and theory of computation
+3. Dynamical systems for physical model
+4. Machine learning and explainable artificial intelligence
 
 **Work and Experiences**
 
