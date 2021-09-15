@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Kittapat Ratanaphupha, who is studying in an undergraduate program of Health Data Science, CPE KMUTT, expect to graduate in May 2022.
 
-At now, I and @savefd are doing a senior project about machine learning with fluxomics data for Cassava growth rate prediction.
+At now, I and [@savefd](https://github.com/savefd) are doing a senior project about machine learning with fluxomics data for Cassava growth rate prediction.
 
 What field I'd like to do:
 1. Geometry (such as Differentiable Manifold, Geometric Analysis)
