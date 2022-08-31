@@ -9,7 +9,7 @@ What field I'd like to do:
 
 What field I'm interested to investigate more:
 1. Digital signal processing, e.g., image processing and speech processing
-2. Computer architecture and theory of computation
+2. Computer architecture
 3. Dynamical systems for physical model
 4. Machine learning and explainable artificial intelligence
 
