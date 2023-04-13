@@ -2,6 +2,7 @@
 I'm Kittapat Ratanaphupha.
 
 **Education**
+
 August 2018 - May 2022, BSc Health Data Science, King Mongkut's University of Technology Thonburi
 
 August 2022 - present, MSc Mathematics, Chulalongkorn University
