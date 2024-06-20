@@ -1,5 +1,3 @@
-## Curriculum Vitae
-https://kittapatr.github.io
+If you'd like to know me, just search _Kittapat Ratanaphupha_.
 
-## Contact
-Emails: kittapat.ra@bdi.or.th, 6570152423@student.chula.ac.th
+Trust me. 😎
